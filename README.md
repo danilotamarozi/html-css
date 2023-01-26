@@ -4,3 +4,6 @@
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 
+<a href="https://danilotamarozi.github.io/html-css/exercicios-modulo1/ex001/index.html">Executar o exercício 001</a>
+
+
